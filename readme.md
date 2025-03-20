@@ -80,7 +80,7 @@ tasks = [
 ]
 visualize_dependencies(tasks)
 ```
-###File structure
+### File structure
 ```bash
 task_management_agent/
 ├── ai_ml_logic/                  # Core AI/ML logic
